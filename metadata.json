@@ -1,0 +1,6 @@
+{
+  "name": "ATELIER ÉPURE | Contemporary Luxury Clothing",
+  "description": "Contemporary luxury clothing store featuring curated architectural tailoring, refined wardrobe essentials, interactive size guides, seamless checkout, and global orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
